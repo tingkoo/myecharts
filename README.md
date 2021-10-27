@@ -2,4 +2,4 @@
 
 Data visualization  with echarts.
 
-![Data Visualization](/Users/ada/Downloads/untitled folder/myecharts/myecharts.png)
+![Data Visualization](https://github.com/tingkoo/myecharts/blob/main/myecharts.png)
